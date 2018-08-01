@@ -1,0 +1,32 @@
+Car two add: true
+Car two has unlocked
+Car six add: true
+Car six has unlocked
+Car one add: true
+Car one has unlocked
+Park full! Car five is waiting parkplace
+Park full! Car three is waiting parkplace
+Park full! Car four is waiting parkplace
+Car six has locked for remove
+Car six remove: true
+Car six has unlocked after remove
+Car five got parkplace successfully
+Car five add: true
+Car five has unlocked
+Car five has locked for remove
+Car five remove: true
+Car five has unlocked after remove
+Car three got parkplace successfully
+Car three add: true
+Car three has unlocked
+Car  four did not wait for the parking space
+Car four has unlocked
+Car two has locked for remove
+Car two remove: true
+Car two has unlocked after remove
+Car one has locked for remove
+Car one remove: true
+Car one has unlocked after remove
+Car three has locked for remove
+Car three remove: true
+Car three has unlocked after remove
