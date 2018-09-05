@@ -59,7 +59,7 @@ public class Base {
 		try {
 			lock.lock();
 			// trucks wait if base is full;
-			if (terminals.isEmpty()) {
+			while (terminals.isEmpty()) {
 				try {
 					if (LOG.isDebugEnabled()) {
 						LOG.debug("{} await", truck.getTruckName());
